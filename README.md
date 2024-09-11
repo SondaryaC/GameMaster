@@ -1,4 +1,4 @@
-🎲 GameMasterAI Chat Application 🎮 
+** 🎲 GameMasterAI Chat Application 🎮 **
 
 Overview
 ---------
