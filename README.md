@@ -9,9 +9,13 @@ Stuck in the game? Unsure about a rule? Just type in your question, and our AI w
 🎁 Key Features
 ---------------
 🕹️ Multiple Games: Supports Ludo, Monopoly, Uno, Snake & Ladders, and Chess.
+
 📜 Rule Clarifications: Ask questions based on game rulebooks, and GameMasterAI will deliver precise answers.
+
 🔍 Smart Search: Quickly searches through the PDF rulebooks and finds the relevant information for your query. 
+
 ⚡ Clear Input Button: Easily clear your query with the "Clear" button. 
+
 💬 AI Responses: Uses the power of Google Generative AI for any tricky or missing rules.
 
 🎮 How to Use GameMasterAI
