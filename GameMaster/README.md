@@ -23,6 +23,7 @@ Type your game-related question in the text box. Be as specific as you like! For
 
 “Can I build a hotel in Monopoly without owning all properties?”
 “What happens if I land on a snake in Snakes & Ladders?”
+
 3. Get Your Answer
 GameMasterAI will find the relevant rule and provide a clear answer. If it can't find an exact match in the rulebook, it will use its AI knowledge to help guide you.
 
